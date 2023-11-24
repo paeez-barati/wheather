@@ -1,0 +1,42 @@
+a{
+
+}
+
+body{
+    background-color: rgb(61, 109, 253);
+}
+#h1{
+    color: rgb(255, 255, 255);
+
+    margin-right: 85%;
+    margin-top: 3px;
+}
+svg{
+    color:rgb(61, 109, 253);
+    border: none;
+    
+    
+}
+input{
+    outline: none;
+    border: rgb(255, 255, 255) ;
+    border-radius: 4px;
+    width: 50%;
+    height: 36px;
+    color: rgb(61, 109, 253);
+    
+}
+
+#d1{
+    margin-top: 40px;
+margin: 0 auto;
+width: 700px;
+}
+#img1{
+    width: 500px;
+    margin-bottom: 0%;
+}
+
+.h{
+    color: aliceblue;
+}
